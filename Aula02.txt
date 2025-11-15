@@ -1,11 +1,5 @@
 X° linha = STA $XXXX
 0 a 9 e A a F
-1° linha = 0200
-2° linha = 0220
-3° linha = 0240
-4° Linha = 0260
-5° linha = 0290
-X° linha = 05ff
 
 LDA #$05
 STA $0200
